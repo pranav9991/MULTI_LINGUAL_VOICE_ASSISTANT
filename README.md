@@ -1,8 +1,6 @@
-Here is the full content of the `README.md` file you can copy directly:
 
----
 
-```markdown
+
 # Multilingual AI Assistant 🤖
 
 This is a Streamlit-based multilingual voice assistant app. It allows users to upload a PDF file, ask questions via voice, and receive intelligent responses generated using Google's Gemini LLM API. The assistant reads the response aloud and offers an audio download option.
@@ -22,7 +20,7 @@ This is a Streamlit-based multilingual voice assistant app. It allows users to u
 
 ## 📁 Project Structure
 
-```
+
 
 .
 ├── app.py                  # Main Streamlit app
@@ -35,7 +33,7 @@ This is a Streamlit-based multilingual voice assistant app. It allows users to u
 ├── **init**.py
 └── helper.py           # Core functions: voice input, LLM, TTS, PDF parsing
 
-````
+
 
 ---
 
