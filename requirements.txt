@@ -1,0 +1,15 @@
+SpeechRecognition  # For speech recognition
+pipwin  # To help install PyAudio on Windows
+pyaudio  # Audio input/output handling
+gTTS  # Google Text-to-Speech
+google-generativeai  # Google Gemini API package
+python-dotenv  # To load environment variables
+streamlit  # Streamlit for your web interface
+
+# Libraries for RAG implementation
+PyPDF2  # For extracting text from PDF
+faiss-cpu  # FAISS for vector similarity search (CPU version)
+sentence-transformers  # For encoding text into embeddings
+
+# If developing locally and want to use a local package
+-e .

@@ -1,0 +1,11 @@
+SpeechRecognition
+pipwin
+pyaudio
+gTTS
+google-generativeai
+python-dotenv
+streamlit
+PyPDF2
+chromadb
+faiss-cpu
+sentence-transformers
