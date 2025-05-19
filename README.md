@@ -18,25 +18,6 @@ This is a Streamlit-based multilingual voice assistant app. It allows users to u
 
 ---
 
-## 📁 Project Structure
-
-
-
-.
-├── app.py                  # Main Streamlit app
-├── requirements.txt        # Python dependencies
-├── setup.py                # Package setup
-├── template.py             # Boilerplate file creator
-├── uploaded\_file.pdf       # Sample uploaded PDF
-├── response.mp3            # Sample response audio
-└── src/
-├── **init**.py
-└── helper.py           # Core functions: voice input, LLM, TTS, PDF parsing
-
-
-
----
-
 ## 🧠 How It Works
 
 1. **Upload a PDF**: The document is stored and indexed using FAISS for RAG.
